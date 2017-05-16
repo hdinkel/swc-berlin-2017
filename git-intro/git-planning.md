@@ -64,6 +64,9 @@
 
 - How can I use version control to collaborate with other people?
   - GitHub collab exercise (maybe this could go earlier?)
+  - `git blame`
+- branches
+- `git branch`
 
 #### Conflicts
 
@@ -81,6 +84,11 @@
 #### Citation
 
 - How can I make my work easier to cite?
+
+#### Workflows
+
+- `git-flow`
+- GitHub flow
 
 #### Hosting
 
